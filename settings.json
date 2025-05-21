@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "StarBot", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "SlobosVideos.aternos.me", 
-    "port": 13855,   
+    "ip": "191.96.231.11", 
+    "port": 31465,   
     "version": "1.12.1"   
   },
   
